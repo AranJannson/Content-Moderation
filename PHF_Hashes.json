@@ -1,0 +1,41 @@
+{
+ "Images\\10-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\50-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\box-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\cropped-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\edges-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\flipped-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\gaussian-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\gray-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\resized-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\rot-45-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\rot-90-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ],
+ "Images\\sharp-mz.jpg": [
+  "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+ ]
+}
