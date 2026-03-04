@@ -14,7 +14,6 @@
 
 ## Environment
 Developed locally using **Python 3.12.3** and **VS Code**.  
-Both scripts have been tested successfully on the **DF VM**.
 
 ## Description
 These two scripts generate and compare **Perceptual Hash Function (PHF)** values to estimate the similarity between images.
